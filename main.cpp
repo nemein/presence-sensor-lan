@@ -1,3 +1,8 @@
+/*
+    Office presence sensor monitoring WiFi devices
+    Copyright (C) 2012-2013 Tuomas Haapala, Nemein <tuomas@nemein.com>
+*/
+
 #include <string>
 #include "lansensor.h"
 
