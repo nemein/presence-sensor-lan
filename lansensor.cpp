@@ -1,5 +1,5 @@
 /*
-    Office presence sensor monitoring WiFi devices
+    Office presence sensor monitoring LAN devices
     Copyright (C) 2012-2013 Tuomas Haapala, Nemein <tuomas@nemein.com>
 */
 
