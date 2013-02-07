@@ -1,7 +1,7 @@
 # Office presence LAN sensor
 ==================================
 
-Requires Linux. Tested with Ubuntu 10.04 and Ubuntu 12.04.
+Requires Linux. Tested with Ubuntu 12.04.
 
 ## Dependencies
 * [Mosquitto](http://mosquitto.org/)
@@ -11,7 +11,7 @@ Requires Linux. Tested with Ubuntu 10.04 and Ubuntu 12.04.
 
 Source codes of **iniParser** and **JsonCpp** are included in subdirectory `sensor_common/external`. The other dependencies can be installed with command
 
-    $ sudo apt-get install libmosquitto1-dev libcurl4-openssl-dev
+    $ sudo apt-get install libmosquitto0-dev libcurl4-openssl-dev
 
 Program [arp-scan](http://www.nta-monitor.com/tools-resources/security-tools/arp-scan) is also required as it used for the actual MAC scanning. To install it, run command
     
